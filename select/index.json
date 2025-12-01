@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "プライド革命（from CHiCO with HoneyWorks 再始動！- Premium Studio Live –）／ CHiCO with HoneyWorks",
+  "base_artist": "HoneyWorks和CHiCO with HoneyWorks",
+  "createdAt": "2025-12-01T10:22:39.851620Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プライド革命",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_プライド革命_CHiCO_with_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "プライド革命",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_02_プライド革命_CHiCO_with_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "プライド革命",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_03_プライド革命_CHiCO_with_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "プライド革命",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_04_プライド革命_CHiCO_with_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "プライド革命",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_05_プライド革命_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
